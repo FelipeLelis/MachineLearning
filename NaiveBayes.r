@@ -1,4 +1,4 @@
-#Formacao Inteligencia Artificial e Machine Learning - Fernando Amaral
+
 install.packages("bnlearn")
 library(bnlearn)
 
