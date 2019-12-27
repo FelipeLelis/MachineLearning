@@ -1,4 +1,4 @@
-#Formação Inteligência Artificial e Machine Learning
+
 
 #instalar e caregar pacote
 install.packages("arules")
